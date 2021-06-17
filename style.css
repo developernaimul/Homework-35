@@ -25,6 +25,11 @@
     color: #9893a5;
 }
 
+.pricing-box hr{
+	background: linear-gradient(45deg,#fff,#111,#fff);
+}
+
+
 
 /* table */
 .pricing-box {
